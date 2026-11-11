@@ -1,4 +1,4 @@
-import Scope from "./Scope.js";
+import Scope from "./scope.js";
 
 class CustomComponent extends HTMLElement {
   // Templates can use the extrapolation pattern defined in this Regex, like so: {{variable}}
